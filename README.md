@@ -29,11 +29,11 @@ which was responsible for storing transactions made by users through categories 
 ![image](https://github.com/user-attachments/assets/b0346e51-7c7c-4909-806c-bc51687723a7)
 
 ## Installation :
-*dotnet add package -v 6.0.24 Microsoft.EntityFrameworkCore
-*dotnet add package -v 6.0.24 Microsoft.EntityFrameworkCore.Tools
-*dotnet add package -v 6.0.24 Microsoft.EntityFrameworkCore.SqlServer
-*dotnet add package Syncfusion.EJ2.AspNet.Core --version 24.1.43
+* dotnet add package -v 6.0.24 Microsoft.EntityFrameworkCore
+* dotnet add package -v 6.0.24 Microsoft.EntityFrameworkCore.Tools
+* dotnet add package -v 6.0.24 Microsoft.EntityFrameworkCore.SqlServer
+* dotnet add package Syncfusion.EJ2.AspNet.Core --version 24.1.43
 ## Run/Create SQL Database
-*Add-Migration InitialCreate
-*Update-Database
+* Add-Migration InitialCreate
+* Update-Database
 
